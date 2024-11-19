@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.teamtreehouse.techdegree.overboard.model.UserTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-11-19T22:21:48" hostname="macos-KGF2HQ0DWD" time="0.005">
+  <properties/>
+  <testcase name="userReputationIncreasesByFiveWhenQuestionUpvoted" classname="com.teamtreehouse.techdegree.overboard.model.UserTest" time="0.002"/>
+  <testcase name="userReputationIncreasesByFifteenWhenAnswerVerified" classname="com.teamtreehouse.techdegree.overboard.model.UserTest" time="0.001"/>
+  <testcase name="userReputationIncreasesByTenWhenAnswerUpvoted" classname="com.teamtreehouse.techdegree.overboard.model.UserTest" time="0.0"/>
+  <testcase name="downvoteAnswerIsNotAllowedByOriginalAuthor" classname="com.teamtreehouse.techdegree.overboard.model.UserTest" time="0.001"/>
+  <testcase name="nonOriginalPostAuthorIsNotAllowedToVerifyAnswer" classname="com.teamtreehouse.techdegree.overboard.model.UserTest" time="0.0"/>
+  <testcase name="upvoteAnswerIsNotAllowedByOriginalAuthor" classname="com.teamtreehouse.techdegree.overboard.model.UserTest" time="0.0"/>
+  <testcase name="userReputationCalculatesEffectivelyAnswerReputationAndAnswerVerified" classname="com.teamtreehouse.techdegree.overboard.model.UserTest" time="0.0"/>
+  <testcase name="downvoteQuestionIsNotAllowedByPostAuthor" classname="com.teamtreehouse.techdegree.overboard.model.UserTest" time="0.0"/>
+  <testcase name="userReputationCalculatesEffectivelyWhenAnswerDownvotedAndUpvoted" classname="com.teamtreehouse.techdegree.overboard.model.UserTest" time="0.0"/>
+  <testcase name="upvoteQuestionIsNotAllowedByOriginalAuthor" classname="com.teamtreehouse.techdegree.overboard.model.UserTest" time="0.0"/>
+  <testcase name="userReputationDecreasesByOneWhenQuestionDownvoted" classname="com.teamtreehouse.techdegree.overboard.model.UserTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
